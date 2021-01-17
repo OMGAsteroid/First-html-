@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>My first html created website</title>
+</head>
+<body align="center">
+<font size=5>THE NEXT GENERATION OF LAPTOPS
+
+<br><br><br><br><br><br>
+<table align=center>
+<tr>
+<td>
+<marquee direction="RIGHT">This is my first product</marquee>
+</td>
+<td>
+<img src=C:\Users\HP\Desktop\download.jpeg width=300 height=250>
+</td>
+<td>
+<marquee direction="LEFT">sale 90%, pre order now</marquee>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+<marquee direction="UP">This is the new next laptop<br>
+For business, gaming, etc.</marquee> 
+</td>
+</tr>
+
+
+
+
+</table>
+<br><br><br><br><br><br>
+Company name = NEXT
+
+</body>
+</html>
